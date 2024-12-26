@@ -1,0 +1,1 @@
+Ubuntu Jammy image with Node.js (NVM), Python (UV), Deno, and Bun for modern development workflows.

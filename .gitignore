@@ -1,0 +1,20 @@
+# Temporary
+__unused
+*.tmp
+*.temp
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+log/
+
+.env*
+!.env.example
